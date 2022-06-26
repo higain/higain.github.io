@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Mornir &#8211; Pagan Metal aus Freising</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 28 May 2021 16:41:53 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/mornir.de/wp-content/uploads/2016/07/cropped-mornir_logo.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Uncategorized &#8211; Mornir &#8211; Pagan Metal aus Freising</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">114774707</site>	<item>
+		<title>Willkommen an den Drums, Wolfgang!</title>
+		<link>/willkommen-an-den-drums-wolfgang/</link>
+		
+		<dc:creator><![CDATA[wordpress]]></dc:creator>
+		<pubDate>Fri, 28 May 2021 16:38:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=406</guid>
+
+					<description><![CDATA[Wir feuen uns, Wolfgang als neues Band-Mitglied an den Drums begrüßen zu dürfen! Manche kennen ihn vielleicht von seiner Arbeit bei Munarheim (munarheim.de) und wer ihn noch nicht kennt, kann sich bei seinem Playthrough von &#8222;Altvordere Macht&#8220; ein Bild machen. Wir freuen uns darauf gemeinsam Musik zu machen und bald wieder auf der Bühne zu stehen!]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">406</post-id>	</item>
+		<item>
+		<title>Album DÄMMERSTUND &#8211; Vorverkauf auf Bandcamp</title>
+		<link>/album-daemmerstund/</link>
+		
+		<dc:creator><![CDATA[Mornir Mornir]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 14:00:05 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=327</guid>
+
+					<description><![CDATA[Liebe Freunde und Weggefährten,wir freuen uns, Euch heute unser kommendes Pagan Metal Album DÄMMERSTUND ankündigen zu dürfen, welches wir am 10. April 2020 veröffentlichen werden. Das Album kann schon jetzt auf mornir.bandcamp.com bestellt werden und wird zur Veröffentlichung verschickt! Diese Aufnahme stellt für uns einen großen Schritt nach vorne dar. Über die Jahre haben wir uns sowohl musikalisch als auch textlich entwickelt. DÄMMERSTUND handelt von Naturgewalt, persönlichem Wachstum und der Suche nach dem eigenen Pfad. &#8230; <a href="/album-daemmerstund/" class="more-link"><span class="screen-reader-text">Album DÄMMERSTUND &#8211; Vorverkauf auf Bandcamp</span> weiterlesen</a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">327</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: mornir.de @ 2022-06-26 15:44:19 by W3 Total Cache
+-->

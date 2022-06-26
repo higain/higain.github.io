@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mornir Mornir &#8211; Mornir &#8211; Pagan Metal aus Freising</title>
+	<atom:link href="/en/author/mornir/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 27 Feb 2020 09:45:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/mornir.de/wp-content/uploads/2016/07/cropped-mornir_logo.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Mornir Mornir &#8211; Mornir &#8211; Pagan Metal aus Freising</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">114774707</site>	<item>
+		<title>Album DÄMMERSTUND &#8211; Presale on bandcamp!</title>
+		<link>/en/album-daemmerstund-2/</link>
+		
+		<dc:creator><![CDATA[Mornir Mornir]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2020 14:00:24 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">/?p=333</guid>
+
+					<description><![CDATA[Dear friends and companions, today we are glad to announce our upcoming album DÄMMERSTUND, which we will release on April 10th, 2020. You can preorder the album now on mornir.bandcamp.com! This record marks a big step forward for us. Over the years we have grown both musically and lyrically. DÄMMERSTUND is about the might of nature, personal growth and the search for one’s own path. The album contains a wide variety of heavy riffs, epic &#8230; <a href="/en/album-daemmerstund-2/" class="more-link">Continue reading <span class="screen-reader-text">Album DÄMMERSTUND &#8211; Presale on bandcamp!</span></a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">333</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: mornir.de @ 2022-06-26 15:44:48 by W3 Total Cache
+-->

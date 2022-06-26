@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Songs &#8211; Mornir &#8211; Pagan Metal aus Freising</title>
+	<atom:link href="/tag/songs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Apr 2019 17:39:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+
+<image>
+	<url>https://i0.wp.com/mornir.de/wp-content/uploads/2016/07/cropped-mornir_logo.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Songs &#8211; Mornir &#8211; Pagan Metal aus Freising</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">114774707</site>	<item>
+		<title>Single &#8222;Hexer&#8220; veröffentlicht</title>
+		<link>/single-hexer-veroeffentlicht/</link>
+		
+		<dc:creator><![CDATA[wordpress]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2019 20:27:18 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Hexer]]></category>
+		<category><![CDATA[Release]]></category>
+		<category><![CDATA[Single]]></category>
+		<category><![CDATA[Songs]]></category>
+		<category><![CDATA[Veröffentlichung]]></category>
+		<guid isPermaLink="false">http://wordpress.mornir.de/?p=188</guid>
+
+					<description><![CDATA[Nach langem Warten können wir endlich unsere Single &#8222;Hexer&#8220; mit den zwei Songs &#8222;Herr in Wind und Tälern&#8220; und &#8222;Hexer&#8220; mit euch teilen! Die Aufnahmen fanden bei Michael Wöß im W-Audio-Studio statt. Das Artwork stammt von Chira Tane und Adrian Liedtke (Captured). Wir bieten die Songs als kostenlosen Download auf Bandcamp an, sowie als Stream auf allen üblichen Plattformen und Youtube! Die physische CD könnt ihr auf Konzerten und auf Bandcamp finden, wir hoffen es &#8230; <a href="/single-hexer-veroeffentlicht/" class="more-link"><span class="screen-reader-text">Single &#8222;Hexer&#8220; veröffentlicht</span> weiterlesen</a>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">188</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: mornir.de @ 2022-06-26 15:44:27 by W3 Total Cache
+-->
